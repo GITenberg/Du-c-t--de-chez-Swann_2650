@@ -1,0 +1,28 @@
+_repo: Du-c-t--de-chez-Swann_2650
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Proust, Marcel
+    birthdate: 1871
+    deathdate: 1922
+    gutenberg_agent_id: '987'
+    url: http://www.gutenberg.org/2009/agents/987
+    wikipedia: http://en.wikipedia.org/wiki/Marcel_Proust
+description: A la recherche du temps perdu, Tome 1
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2001-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2650'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Autobiographical fiction'
+- !lcsh 'Villages -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'France -- Social life and customs -- 19th century -- Fiction'
+- GITenberg
+title: Du côté de chez Swann
+url: http://www.gutenberg.org/ebooks/2650
